@@ -1,0 +1,21 @@
+## sys_mssi_64_cn_armv82-user 12 SP1A.210812.016 1662108125590 release-keys
+- Manufacturer: oneplus
+- Platform: mt6877
+- Codename: IV2201
+- Brand: OnePlus
+- Flavor: sys_mssi_64_cn_armv82-user
+- Release Version: 12
+- Kernel Version: 4.14.186
+- Id: SP1A.210812.016
+- Incremental: R.202209011617
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: 480
+- Fingerprint: OnePlus/IV2201_IND/OP555BL1:12/SP1A.210812.016/R.202209011617:user/release-keys
+- OTA version: IV2201_11_C.07
+- Branch: sys_mssi_64_cn_armv82-user-12-SP1A.210812.016-1662108125590-release-keys-8088
+- Repo: oneplus_iv2201_dump
+# c.07-dump-ivan
