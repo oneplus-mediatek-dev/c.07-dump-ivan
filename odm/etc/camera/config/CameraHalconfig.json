@@ -1,0 +1,15 @@
+{
+"PinLibs": [
+"/odm/lib64/liboplus_platform_hwi.so",
+"/system/lib64/libEGL.so",
+"/apex/com.android.art/lib64/libnativebridge.so",
+"/apex/com.android.art/lib64/libperfetto_hprof.so",
+"/system/lib64/libmediandk.so",
+"/system/lib64/libnetd_client.so",
+"/odm/lib64/libarcsoft_preview_antibanding.so",
+"/apex/com.android.art/lib64/libnativehelper.so",
+"/vendor/lib64/lib3a.aishutter.models.so",
+"/apex/com.android.media.swcodec/lib64/libcodec2_soft_vorbisdec.so",
+"/vendor/lib64/libaiawb_sun_model.so"
+]
+}

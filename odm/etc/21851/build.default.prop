@@ -1,0 +1,43 @@
+
+# Build.java
+ro.build.id=SP1A.210812.016
+ro.product.manufacturer=OnePlus
+ro.product.brand=OnePlus
+ro.product.model=IV2201
+ro.product.name=IV2201_IND
+ro.product.device=OP555BL1
+ro.product.first_api_level=30
+ro.board.first_api_level=30
+ro.build.version.incremental=R.202209011617
+ro.build.version.release=12
+ro.build.version.release_or_codename=12
+ro.build.fingerprint=OnePlus/IV2201_IND/OP555BL1:12/SP1A.210812.016/R.202209011617:user/release-keys
+ro.odm.build.fingerprint=OnePlus/IV2201_IND/OP555BL1:12/SP1A.210812.016/R.202209011617:user/release-keys
+ro.odm.build.version.incremental=R.202209011617
+ro.product.odm.brand=OnePlus
+ro.product.odm.manufacturer=OnePlus
+ro.product.odm.model=IV2201
+ro.product.odm.device=OP555BL1
+ro.product.odm.name=IV2201_IND
+ro.odm.build.date=Thu Sep  1 16:27:58 CST 2022
+ro.odm.build.date.utc=1662020878
+ro.bootimage.build.fingerprint=OnePlus/IV2201_IND/OP555BL1:12/SP1A.210812.016/R.202209011617:user/release-keys
+ro.bootimage.build.version.incremental=R.202209011617
+ro.product.bootimage.brand=OnePlus
+ro.product.bootimage.manufacturer=OnePlus
+ro.product.bootimage.model=IV2201
+ro.product.bootimage.device=OP555BL1
+ro.product.bootimage.name=IV2201_IND
+ro.bootimage.build.date=Thu Sep  1 16:27:58 CST 2022
+ro.bootimage.build.date.utc=1662020878
+ro.vendor.build.fingerprint=OnePlus/IV2201_IND/OP555BL1:12/SP1A.210812.016/R.202209011617:user/release-keys
+ro.vendor.build.version.incremental=R.202209011617
+ro.product.vendor.brand=OnePlus
+ro.product.vendor.manufacturer=OnePlus
+ro.product.vendor.model=IV2201
+ro.product.vendor.device=OP555BL1
+ro.product.vendor.name=IV2201_IND
+ro.vendor.build.date=Thu Sep  1 16:27:58 CST 2022
+ro.vendor.build.date.utc=1662020878
+
+# OPPO
